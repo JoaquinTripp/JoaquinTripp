@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**JoaquinTripp/JoaquinTripp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, my name is Joaquin Tripp, I'm from Mexico, and I'm a Data Scientist with 4+ years of experience specializing in machine learning, clinical data engineering, and advanced statistical modeling.
 
-Here are some ideas to get you started:
+- Currently working at [Amphora Health](https://amphora.health/es/)
+- I have a [TikTok account](https://www.tiktok.com/@joaquintripp) about Data Science, and Python tips.
+- I offer consulting hours for data science projects. You can book a slot [here](https://calendar.app.google/B3VP4ThwrZZ3FhgQ8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+-  💻 Programming in Python, PostgreSQL, R, Bash, VBA, and some JavaScript.
+- 🚀 Deploying ML models with Docker, and AWS services.
+- 📊 Expertise in analytical software such as Power BI, Tableau, SPSS, Minitab, and Macros VBA.
+- 🧠 Critical thinking, leading end-to-end projects, and interdisciplinary collaboration.
+- 🏥 Experience with clinical standards such as the OMOP Common Data Model (from [OHDSI](https://www.ohdsi.org/)), ICD-10 and SNOMED vocabularies, and HL7-FHIR.
+
+## Contributions
+I have worked on research articles:
+- 📄 DiabetIA: Building Machine Learning Models for Type 2 Diabetes Complications [DOI](https://doi.org/10.1101/2023.10.22.23297277)
+- 📄 Incidencia de Lesiones Cervicales de Alto y Bajo Grado Ocasionadas por el Virus del Papiloma Humano [DOI](https://doi.org/10.37811/cl_rcm.v8i1.9892)
+- 📄 Prevalence and metabolic risk factors of chronic kidney disease among a Mexican adult population: a cross-sectional study in primary healthcare medical units [DOI](https://doi.org/10.7717/peerj.17817)
+
+## Contact
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joaquintripp) | Joaquin Tripp
