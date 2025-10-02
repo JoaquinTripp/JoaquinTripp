@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile, my name is Joaquin Tripp, I'm from Mexico, and I'm a Data Scientist with 4+ years of experience specializing in machine learning, clinical data engineering, and advanced statistical modeling.
 
-- Currently working at [Amphora Health](https://amphora.health/es/)
-- I have a [TikTok account](https://www.tiktok.com/@joaquintripp) about Data Science, and Python tips.
-- I offer consulting hours for data science projects. You can book a slot [here](https://calendar.app.google/B3VP4ThwrZZ3FhgQ8)
-
 ## Skills
 -  💻 Programming in Python, PostgreSQL, R, Bash, VBA, and some JavaScript.
 - 🚀 Deploying ML models with Docker, and AWS services.
